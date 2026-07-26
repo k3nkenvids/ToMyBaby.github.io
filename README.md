@@ -20,7 +20,7 @@
       --paper: #FFFBFC;
     }
 
-    * {
+    *{
       box-sizing: border-box;
     }
 
